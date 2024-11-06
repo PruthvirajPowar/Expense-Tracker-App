@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123236150028",
+    "project_id": "fire-spw",
+    "storage_bucket": "fire-spw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123236150028:android:be2089bd86d45f9cd97729",
+        "android_client_info": {
+          "package_name": "com.example.flutter_applicat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ek_HcvzBk1xUm1EdeJ87vueOn2fL_DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123236150028:android:01a6ab42761c5d41d97729",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ek_HcvzBk1xUm1EdeJ87vueOn2fL_DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
